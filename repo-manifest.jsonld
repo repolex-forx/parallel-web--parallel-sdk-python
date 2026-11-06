@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/parallel-web/parallel-sdk-python/commit/ee81aa44906d6671dde6a12240968c128b3f1d34",
       "git:hexsha": "ee81aa44906d6671dde6a12240968c128b3f1d34",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v1.3.7"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v1.3.7",
+      "repolex:parsedAt": "2026-11-06T03:14:51.779632+00:00"
     },
     {
       "@id": "https://repolex.ai/r/parallel-web/parallel-sdk-python/commit/cb97acd879e6b7d9d04783bb4d4bc949f79b2826",
