@@ -3,6 +3,11 @@
   "repo": "parallel-sdk-python",
   "versions": [
     {
+      "commit": "190be00662dd26dcea7f93394ff05fc5f5ba6bc0",
+      "tag": "v0.5.0",
+      "parsed_at": "2026-11-22T07:06:17.318490+00:00"
+    },
+    {
       "commit": "ee81aa44906d6671dde6a12240968c128b3f1d34",
       "tag": "v1.3.7",
       "parsed_at": "2026-11-06T03:14:51.780250+00:00"
