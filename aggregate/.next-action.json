@@ -2,7 +2,7 @@
   "next_action": "done",
   "phase_completed": "combine",
   "commit_sha": "190be00662dd26dcea7f93394ff05fc5f5ba6bc0",
-  "ts": "2026-11-22T07:06:17Z",
+  "ts": "2026-11-22T07:07:31Z",
   "total_triples": 231631,
   "manifest": "/home/runner/work/forx/forx/storage/manifest.json"
 }
